@@ -1,0 +1,12 @@
+name: balbPartyAndFriend
+version: 4.0
+main: xyz.balbucio.bright.Spigot
+authors: [ Sr_Balbucio ]
+softdepend: [ MySQL ]
+description: Plugin de Party da BrightNetwork
+website: https://brightnetwork.com.br
+commands:
+  partyspigotadm:
+    description: Party Adm
+  amigo:
+    description: Comando de Amigo
